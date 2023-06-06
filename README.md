@@ -10,12 +10,12 @@ Uma API construída para o receber e devolver dados do site Food Explorer que é
 Clone o repositorio:
 Back-end:
 ```bash
-  git clone ...
+  git clone git@github.com:taianekarine/Explorer-Desafio-Final-BackEnd.git
 ```
 
 Navegue até a pasta:
 ```bash
-  cd ...
+  cd Explorer-Desafio-Final-BackEnd
 ```
 ## Variáveis de Ambiente
 
@@ -25,7 +25,6 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 
 `ANOTHER_API_KEY`
 
-
 ## Rode o projeto
 Para executar o programa certifique-se que o backend esteja executando, depois, basta rodar o comando:
 
@@ -33,7 +32,6 @@ Back-end:
 ```bash
   npm run dev
 ```
-
 ## Funcionalidades 🤖
 
 - Criar usuário;
@@ -58,5 +56,5 @@ O maior aprendizado é nunca desistir e entender que tudo acontece num passe de 
 [ Instagram ](https://www.instagram.com/taianekarine/)
 ## Deploy 💻
 
-[ Acesse a API aqui! ]( colocar link aq)
+[ Acesse a URL da API aqui! ](https://food-explorer-backend-api.onrender.com)
 
